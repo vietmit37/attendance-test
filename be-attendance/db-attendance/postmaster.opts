@@ -1,0 +1,1 @@
+/usr/lib/postgresql/15/bin/postgres "-c" "track_commit_timestamp=on" "-c" "log_destination=stderr"
